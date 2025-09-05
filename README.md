@@ -1,2 +1,3 @@
 # terraform-aws
-Learning Terraform on AWS
+Learning to use Terraform on AWS
+https://developer.hashicorp.com/terraform/tutorials/aws-get-started
